@@ -6,4 +6,8 @@ This repository contains a curated list of papers on graph neural networks for d
 
 *Continuously updating!*
 
-
+*Benchmark*
+| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
+| --------------- | :--------: | :--------: | :--------: | 
+| PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding | _NIPS 2022_ | [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2022/file/e467582d42d9c13fa9603df16f31de6d-Paper-Datasets_and_Benchmarks.pdf) | [[Code]](https://github.com/DeepGraphLearning/PEER_Benchmark) |
+| TorchDrug: A Powerful and Flexible Machine Learning Platform for Drug Discovery | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2202.08320.pdf) | [[Code]](https://github.com/DeepGraphLearning/torchdrug) |
