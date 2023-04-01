@@ -30,6 +30,7 @@ This repository contains a curated list of papers on **deep graph learning for d
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | Do Transformers Really Perform Bad for Graph Representation? | _NIPS 2021_ | [[PDF]](https://arxiv.org/pdf/2106.05234.pdf) | [[Code]](https://github.com/Microsoft/Graphormer) |
+| Molecular generative Graph Neural Networks for Drug Discovery | _Neurocomputing 2021_ | [[PDF]](https://arxiv.org/pdf/2012.07397.pdf) | [[Code]](https://github.com/PietroMSB/MG2N2) |
 ----------
  
  
@@ -49,5 +50,6 @@ This repository contains a curated list of papers on **deep graph learning for d
 | Artificial Intelligence in Drug Discovery: Applications and Techniques | _Briefings in Bioinformatics 2022_ | [[PDF]](https://arxiv.org/pdf/2106.05386.pdf) | [[Code]](https://github.com/dengjianyuan/Survey_AI_Drug_Discovery) |
 | A review of biomedical datasets relating to drug discovery: a knowledge graph perspective | _Briefings in Bioinformatics 2022_ | [[PDF]](https://academic.oup.com/bib/article-abstract/23/6/bbac404/6712301) | [Not Available] |
 | Utilizing graph machine learning within drug discovery and development | _Briefings in Bioinformatics 2021_ | [[PDF]](https://academic.oup.com/bib/article/22/6/bbab159/6278145) | [Not Available] |
-| Graph convolutional networks for computational drug development and discovery | _Briefings in Bioinformatics 2020_ | [[PDF]](https://academic.oup.com/bib/article/21/3/919/5498046) | [Not Available] |
+| Graph convolutional networks for computational drug development and discovery | _Briefings in Bioinformatics 2020_ | [[PDF]](https://www.sciencedirect.com/science/article/pii/S1740674920300305) | [Not Available] |
+| A compact review of molecular property prediction with graph neural networks | _Drug Discovery Today: Technologies, 2020_ | [[PDF]](https://academic.oup.com/bib/article/21/3/919/5498046) | [Not Available] |
 
