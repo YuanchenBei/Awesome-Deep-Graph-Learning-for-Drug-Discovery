@@ -18,6 +18,19 @@ This repository contains a curated list of papers on **deep graph learning for d
 | GraphCG: Unsupervised Discovery of Steerable Factors in Graphs | _ICLR 2023 (Submitted)_ | [[PDF]](https://openreview.net/pdf?id=wUcNUTnOvq) | [Not Available] |
 | Look in The Mirror: Molecular Graph Contrastive Learning with Line Graph | _ICLR 2023 (Submitted)_ | [[PDF]](https://openreview.net/pdf?id=pzH2Sltp2--) | [Not Available] |
 ----------
+
+## Year 2022
+| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
+| --------------- | :--------: | :--------: | :--------: | 
+| TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction | _NIPS 2022_ | [[PDF]](https://papers.nips.cc/paper_files/paper/2022/file/2f89a23a19d1617e7fb16d4f7a049ce2-Paper-Conference.pdf) | [[Code]](https://github.com/luwei0917/TankBind) |
+----------
+
+
+## Year 2021
+| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
+| --------------- | :--------: | :--------: | :--------: | 
+| Do Transformers Really Perform Bad for Graph Representation? | _NIPS 2021_ | [[PDF]](https://arxiv.org/pdf/2106.05234.pdf) | [[Code]](https://github.com/Microsoft/Graphormer) |
+----------
  
  
 ## Other Related
