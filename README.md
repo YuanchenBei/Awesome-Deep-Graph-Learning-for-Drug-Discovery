@@ -47,6 +47,7 @@ This repository contains a curated list of papers on **deep graph learning for d
 *Survey*
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| Knowledge-augmented Graph Machine Learning for Drug Discovery: A Survey from Precision to Interpretability | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2302.08261.pdf) | [[Code]](https://github.com/zhiqiangzhongddu/Awesome-Knowledge-augmented-GML-for-Drug-Discovery) |
 | Artificial Intelligence in Drug Discovery: Applications and Techniques | _Briefings in Bioinformatics 2022_ | [[PDF]](https://arxiv.org/pdf/2106.05386.pdf) | [[Code]](https://github.com/dengjianyuan/Survey_AI_Drug_Discovery) |
 | A review of biomedical datasets relating to drug discovery: a knowledge graph perspective | _Briefings in Bioinformatics 2022_ | [[PDF]](https://academic.oup.com/bib/article-abstract/23/6/bbac404/6712301) | [Not Available] |
 | Utilizing graph machine learning within drug discovery and development | _Briefings in Bioinformatics 2021_ | [[PDF]](https://academic.oup.com/bib/article/22/6/bbab159/6278145) | [Not Available] |
