@@ -31,6 +31,7 @@ This repository contains a curated list of papers on **deep graph learning for d
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | Do Transformers Really Perform Bad for Graph Representation? | _NIPS 2021_ | [[PDF]](https://arxiv.org/pdf/2106.05234.pdf) | [[Code]](https://github.com/Microsoft/Graphormer) |
+| Few-Shot Graph Learning for Molecular Property Prediction | _WWW 2021_ | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3442381.3450112) | [[Code]](https://github.com/zhichunguo/Meta-MGNN) |
 | Molecular generative Graph Neural Networks for Drug Discovery | _Neurocomputing 2021_ | [[PDF]](https://arxiv.org/pdf/2012.07397.pdf) | [[Code]](https://github.com/PietroMSB/MG2N2) |
 ----------
 
