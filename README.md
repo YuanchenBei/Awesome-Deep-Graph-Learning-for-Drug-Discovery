@@ -9,6 +9,7 @@ This repository contains a curated list of papers on **deep graph learning for d
  ## Year 2023
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| Hierarchical graph learning for protein–protein interaction | _Nature Communications_ | [[PDF]](https://www.nature.com/articles/s41467-023-36736-1.pdf) | [[Code]](https://github.com/zqgao22/HIGH-PPI) |
 | O-GNN: incorporating ring priors into molecular modeling | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=5cFfz6yMVPU) | [[Code]](https://github.com/O-GNN/O-GNN) |
 | Diffusion Models for Causal Discovery via Topological Ordering | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=Idusfje4-Wq) | [[Code]](https://github.com/vios-s/DiffAN) |
 | Matching receptor to odorant with protein language and graph neural network | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=q9VherQJd8_) | [[Code]](https://github.com/MatejHl/Receptor2Odorant) |
