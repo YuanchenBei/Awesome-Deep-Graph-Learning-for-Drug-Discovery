@@ -33,6 +33,13 @@ This repository contains a curated list of papers on **deep graph learning for d
 | Do Transformers Really Perform Bad for Graph Representation? | _NIPS 2021_ | [[PDF]](https://arxiv.org/pdf/2106.05234.pdf) | [[Code]](https://github.com/Microsoft/Graphormer) |
 | Molecular generative Graph Neural Networks for Drug Discovery | _Neurocomputing 2021_ | [[PDF]](https://arxiv.org/pdf/2012.07397.pdf) | [[Code]](https://github.com/PietroMSB/MG2N2) |
 ----------
+
+
+## Year 2020
+| **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
+| --------------- | :--------: | :--------: | :--------: | 
+| Strategies for Pre-training Graph Neural Networks | _ICLR 2020_ | [[PDF]](https://openreview.net/pdf?id=HJlWWJSFDH) | [[Code]](https://github.com/snap-stanford/pretrain-gnns) |
+----------
  
  
 ## Other Related
