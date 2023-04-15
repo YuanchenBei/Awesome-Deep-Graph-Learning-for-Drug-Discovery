@@ -24,6 +24,8 @@ This repository contains a curated list of papers on **deep graph learning for d
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction | _NIPS 2022_ | [[PDF]](https://papers.nips.cc/paper_files/paper/2022/file/2f89a23a19d1617e7fb16d4f7a049ce2-Paper-Conference.pdf) | [[Code]](https://github.com/luwei0917/TankBind) |
+| ComENet: Towards Complete and Efficient Message Passing for 3D Molecular Graphs | _NIPS 2022_ | [[PDF]](https://papers.nips.cc/paper_files/paper/2022/file/0418973e545b932939302cb605d06f43-Paper-Conference.pdf) | [[Code]](https://github.com/divelab/DIG) |
+| Does GNN Pretraining Help Molecular Representation? | _NIPS 2022_ | [[PDF]](https://papers.nips.cc/paper_files/paper/2022/file/4ec360efb3f52643ac43fda570ec0118-Paper-Conference.pdf) | [Not Available] |
 | GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=PzcvxEMzvQC) | [[Code]](https://github.com/MinkaiXu/GeoDiff) |
 | Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=LI2bhrE_2A) | [[Code]](https://github.com/wengong-jin/RefineGNN) | 
 | Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery | _ICLR 2022_ |[[PDF]](https://openreview.net/pdf?id=kavTY__jxp) | [[Code]](https://github.com/yulun-rayn/DGAPN) |
@@ -53,6 +55,7 @@ This repository contains a curated list of papers on **deep graph learning for d
 *Benchmark*
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| Graphein - a Python Library for Geometric Deep Learning and Network Analysis on Biomolecular Structures and Interaction Networks | _NIPS 2022_ | [[PDF]](https://papers.nips.cc/paper_files/paper/2022/file/ade039c1db0391106a3375bd2feb310a-Paper-Conference.pdf) | [[Code]](https://github.com/a-r-j/graphein) |
 | PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding | _NIPS 2022_ | [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2022/file/e467582d42d9c13fa9603df16f31de6d-Paper-Datasets_and_Benchmarks.pdf) | [[Code]](https://github.com/DeepGraphLearning/PEER_Benchmark) |
 | GeneDisco: A Benchmark for Experimental Design in Drug Discovery | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=-w2oomO6qgc) | [[Code]](https://github.com/genedisco/genedisco) |
 | TorchDrug: A Powerful and Flexible Machine Learning Platform for Drug Discovery | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2202.08320.pdf) | [[Code]](https://github.com/DeepGraphLearning/torchdrug) |
