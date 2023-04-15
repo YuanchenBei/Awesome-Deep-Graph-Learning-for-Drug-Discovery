@@ -24,6 +24,11 @@ This repository contains a curated list of papers on **deep graph learning for d
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction | _NIPS 2022_ | [[PDF]](https://papers.nips.cc/paper_files/paper/2022/file/2f89a23a19d1617e7fb16d4f7a049ce2-Paper-Conference.pdf) | [[Code]](https://github.com/luwei0917/TankBind) |
+| GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=PzcvxEMzvQC) | [[Code]](https://github.com/MinkaiXu/GeoDiff) |
+| Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=LI2bhrE_2A) | [[Code]](https://github.com/wengong-jin/RefineGNN) | 
+| Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery | _ICLR 2022_ |[[PDF]](https://openreview.net/pdf?id=kavTY__jxp) | [[Code]](https://github.com/yulun-rayn/DGAPN) |
+| Pre-training Molecular Graph Representation with 3D Geometry | _ICLR 2022_ |[[PDF]](https://openreview.net/pdf?id=xQUe1pOKPam) | [[Code]](https://github.com/chao1224/GraphMVP) |
+| Geometric Transformers for Protein Interface Contact Prediction | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=CS4463zx6Hi) | [[Code]](https://github.com/BioinfoMachineLearning/DeepInteract) |
 ----------
 
 
@@ -49,6 +54,7 @@ This repository contains a curated list of papers on **deep graph learning for d
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding | _NIPS 2022_ | [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2022/file/e467582d42d9c13fa9603df16f31de6d-Paper-Datasets_and_Benchmarks.pdf) | [[Code]](https://github.com/DeepGraphLearning/PEER_Benchmark) |
+| GeneDisco: A Benchmark for Experimental Design in Drug Discovery | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=-w2oomO6qgc) | [[Code]](https://github.com/genedisco/genedisco) |
 | TorchDrug: A Powerful and Flexible Machine Learning Platform for Drug Discovery | _Arxiv 2022_ | [[PDF]](https://arxiv.org/pdf/2202.08320.pdf) | [[Code]](https://github.com/DeepGraphLearning/torchdrug) |
 | MoleculeNet: a benchmark for molecular machine learning | _Chemical Science 2018_ | [[PDF]](https://pubs.rsc.org/en/content/articlepdf/2018/sc/c7sc02664a) | [[Code]](https://github.com/deepchem/deepchem) |
 
