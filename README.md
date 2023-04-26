@@ -9,8 +9,9 @@ This repository contains a curated list of papers on **deep graph learning for d
  ## Year 2023
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
+| Multi-task joint strategies of self-supervised representation learning on biomedical networks for drug discovery | _Nature Machine Intelligence 2023_ |[[PDF]](https://www.nature.com/articles/s42256-023-00640-6) | [[Code]](https://github.com/pengsl-lab/MSSL) |
 | Drug-target interaction prediction based on spatial consistency constraint and graph convolutional autoencoder | _BMC bioinformatics 2023_ | [[PDF]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05275-3) | [[Code]](https://github.com/936773184/SDGAE) |
-| Hierarchical graph learning for protein–protein interaction | _Nature Communications_ | [[PDF]](https://www.nature.com/articles/s41467-023-36736-1.pdf) | [[Code]](https://github.com/zqgao22/HIGH-PPI) |
+| Hierarchical graph learning for protein–protein interaction | _Nature Communications 2023_ | [[PDF]](https://www.nature.com/articles/s41467-023-36736-1.pdf) | [[Code]](https://github.com/zqgao22/HIGH-PPI) |
 | O-GNN: incorporating ring priors into molecular modeling | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=5cFfz6yMVPU) | [[Code]](https://github.com/O-GNN/O-GNN) |
 | Diffusion Models for Causal Discovery via Topological Ordering | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=Idusfje4-Wq) | [[Code]](https://github.com/vios-s/DiffAN) |
 | Matching receptor to odorant with protein language and graph neural network | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=q9VherQJd8_) | [[Code]](https://github.com/MatejHl/Receptor2Odorant) |
@@ -19,6 +20,7 @@ This repository contains a curated list of papers on **deep graph learning for d
 | Substructure-Atom Cross Attention for Molecular Representation Learning | _ICLR 2023 (Submitted)_ | [[PDF]](https://openreview.net/pdf?id=WFewvIEb0aT) | [Not Available] |
 | GraphCG: Unsupervised Discovery of Steerable Factors in Graphs | _ICLR 2023 (Submitted)_ | [[PDF]](https://openreview.net/pdf?id=wUcNUTnOvq) | [Not Available] |
 | Look in The Mirror: Molecular Graph Contrastive Learning with Line Graph | _ICLR 2023 (Submitted)_ | [[PDF]](https://openreview.net/pdf?id=pzH2Sltp2--) | [Not Available] |
+| Data-Efficient Protein 3D Geometric Pretraining via Refinement of Diffused Protein Structure Decoy | _Arxiv 2023_ | [[PDF]](https://arxiv.org/pdf/2302.10888.pdf) | [Not Available] |
 ----------
 
 ## Year 2022
