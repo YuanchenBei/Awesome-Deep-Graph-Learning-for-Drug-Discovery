@@ -1,12 +1,14 @@
 # Awesome Deep Graph Learning for Drug Discovery
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-yellow.svg)](https://github.com/YuanchenBei/Awesome-Deep-Graph-Learning-for-Drug-Discovery) 
-![Stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Deep-Graph-Learning-for-Drug-Discovery?color=green)  ![Forks](https://img.shields.io/github/forks/YuanchenBei/Awesome-Deep-Graph-Learning-for-Drug-Discovery?color=blue)
+![Stars](https://img.shields.io/github/stars/YuanchenBei/Awesome-Deep-Graph-Learning-for-Drug-Discovery?color=green) 
 
 This repository contains a curated list of papers on **deep graph learning for drug discovery** (DGL4DD), which are categorized based on their published years and corresponding tasks.
 
 *Continuously updating!*
 
- ## Year 2023
+---
+
+## Year 2023
 | **Paper Title** | **Venue** | **PDF Link** | **Code Link** |
 | --------------- | :--------: | :--------: | :--------: | 
 | Multi-task joint strategies of self-supervised representation learning on biomedical networks for drug discovery | _Nature Machine Intelligence 2023_ |[[PDF]](https://www.nature.com/articles/s42256-023-00640-6) | [[Code]](https://github.com/pengsl-lab/MSSL) |
