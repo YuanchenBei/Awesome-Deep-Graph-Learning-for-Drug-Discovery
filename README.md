@@ -36,6 +36,7 @@ This repository contains a curated list of papers on **deep graph learning for d
 | Spatial Graph Attention and Curiosity-driven Policy for Antiviral Drug Discovery | _ICLR 2022_ |[[PDF]](https://openreview.net/pdf?id=kavTY__jxp) | [[Code]](https://github.com/yulun-rayn/DGAPN) |
 | Pre-training Molecular Graph Representation with 3D Geometry | _ICLR 2022_ |[[PDF]](https://openreview.net/pdf?id=xQUe1pOKPam) | [[Code]](https://github.com/chao1224/GraphMVP) |
 | Geometric Transformers for Protein Interface Contact Prediction | _ICLR 2022_ | [[PDF]](https://openreview.net/pdf?id=CS4463zx6Hi) | [[Code]](https://github.com/BioinfoMachineLearning/DeepInteract) |
+| scGAC: a graph attentional architecture for clustering single-cell RNA-seq data | _Bioinformatics 2022_ | [[PDF]](https://openreview.net/pdf?id=CS4463zx6Hi) | [[Code]](https://github.com/BioinfoMachineLearning/DeepInteract) | [[PDF]](https://watermark.silverchair.com/btac099.pdf) | [[Code]](https://github.com/Joye9285/scGAC) |
 ----------
 
 
