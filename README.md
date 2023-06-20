@@ -17,6 +17,7 @@ This repository contains a curated list of papers on **deep graph learning for d
 | O-GNN: incorporating ring priors into molecular modeling | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=5cFfz6yMVPU) | [[Code]](https://github.com/O-GNN/O-GNN) |
 | Diffusion Models for Causal Discovery via Topological Ordering | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=Idusfje4-Wq) | [[Code]](https://github.com/vios-s/DiffAN) |
 | Matching receptor to odorant with protein language and graph neural network | _ICLR 2023_ | [[PDF]](https://openreview.net/pdf?id=q9VherQJd8_) | [[Code]](https://github.com/MatejHl/Receptor2Odorant) |
+| Learning Hierarchical Protein Representations via Complete 3D Graph Networks | _ICLR 2023_ | [[PDF]](https://openreview.net/forum?id=9X-hgLDLYkQ) | [[Code]](https://github.com/divelab/DIG) |
 | Predicting Drug Repurposing Candidates and Their Mechanisms from A Biomedical Knowledge Graph | _ICLR 2023 (Submitted)_ | [[PDF]](https://openreview.net/pdf?id=YycrpoVQB4G) | [Not Available] |
 | Cross-modal Graph Contrastive Learning with Cellular Images | _ICLR 2023 (Submitted)_ | [[PDF]](https://openreview.net/pdf?id=V_V53-WG9m6) | [Not Available] |
 | Substructure-Atom Cross Attention for Molecular Representation Learning | _ICLR 2023 (Submitted)_ | [[PDF]](https://openreview.net/pdf?id=WFewvIEb0aT) | [Not Available] |
